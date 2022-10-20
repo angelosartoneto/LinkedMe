@@ -1,0 +1,39 @@
+#container1 {
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    padding: 0;
+}
+
+#container2 {
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.banner {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#foto {
+    border-radius: 100px;
+    top: -110px;
+    left: 22px;
+    border: 5px solid white;
+
+}
+
+.btn {
+    margin-bottom: 10px;
+    margin-left: 30px;
+
+}
+
+body {
+    background-color: rgb(243, 242, 239);
+}
+
+.titulo {
+    padding: 30px;
+    margin-top: -140px;
+
+}
